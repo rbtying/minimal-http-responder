@@ -3,6 +3,8 @@ name = "minimal-http-responder"
 version = "0.1.0"
 authors = ["Robert Ying <rbtying@aeturnalus.com>"]
 edition = "2018"
+description = "A minimal HTTP responder"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
