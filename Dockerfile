@@ -1,4 +1,4 @@
-FROM rust:alpine as builder
+FROM rust as builder
 
 WORKDIR /usr/src/app
 COPY . .
